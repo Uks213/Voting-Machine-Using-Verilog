@@ -81,8 +81,7 @@ This project focuses on the design and implementation of a digital voting machin
 This digital voting machine project demonstrates the application of Verilog HDL in designing a practical voting system. The modular approach ensures easy debugging and testing, while the clear separation of concerns allows each module to perform its specific function efficiently. The project can be further extended to include more candidates, different voting mechanisms, and more sophisticated result displays.
 
 ## Author
-[Your Name]
+Utkal Keshari Sahoo
 
-## License
-This project is open-source under the MIT License.
+
 
