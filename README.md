@@ -1,5 +1,4 @@
 # Voting-Machine-Using-Verilog
-# Digital Voting Machine Project Using Verilog
 
 ## Introduction
 This project focuses on the design and implementation of a digital voting machine using Verilog HDL. The voting machine allows users to vote for one of four candidates by pressing corresponding buttons. The machine debounces the button presses, logs valid votes, and displays the results on LEDs based on the operating mode (voting or result display).
